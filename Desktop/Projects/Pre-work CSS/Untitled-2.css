@@ -1,0 +1,50 @@
+/*Formatting information*/
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+.red {
+    color: red;
+}
+
+.blue {
+    color: blue;
+}
+
+.green {
+    color: green;
+}
+
+.big {
+    font-size: large;
+}
+
+.tiny {
+    font-size: x-small;
+}
+
+.center {
+    text-align: center;
+}
+
+.strong {
+    font-weight: bold; 
+}
+
+.funky {
+    font: arial, serif;
+}
+
+.combo {
+    color: orange; font-size: large; font-weight: bold;
+}
+
+.styledFont {
+    color: black; font-style: italic; font: arial, sans-serif;
+}
+
+#styledImage {
+    border-style: solid; border-color: orange; border-width: 10px;
+}
