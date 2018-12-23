@@ -1,0 +1,17 @@
+body {
+    background-color: #363A3A;
+}
+
+header {
+    background-color: #BEE9E8;
+    border-bottom-width: 12px; 
+    border-bottom-style: solid;
+    border-color: #62B6CB;
+}
+
+.body-container{
+    background-color: #F1E9DB;
+    border: 12px solid #62B6CB;
+    width: 100%;
+}
+
